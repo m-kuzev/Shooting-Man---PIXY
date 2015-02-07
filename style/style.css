@@ -1,0 +1,13 @@
+html, body, ul, li, a {
+    padding: 0;
+    background-color: #1E1F21;
+}
+
+#c {
+    border: 1px solid deeppink;
+}
+
+img {
+    position: absolute;
+    left: 0;
+}

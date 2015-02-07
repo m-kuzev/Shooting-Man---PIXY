@@ -1,0 +1,48 @@
+{"frames": {
+
+"rocket_01.png":
+{
+	"frame": {"x":2,"y":155,"w":25,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":43},
+	"sourceSize": {"w":26,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocket_02.png":
+{
+	"frame": {"x":2,"y":2,"w":25,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":49},
+	"sourceSize": {"w":26,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocket_03.png":
+{
+	"frame": {"x":2,"y":53,"w":25,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":49},
+	"sourceSize": {"w":26,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocket_04.png":
+{
+	"frame": {"x":2,"y":104,"w":25,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":49},
+	"sourceSize": {"w":26,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Rocket.png",
+	"format": "RGBA8888",
+	"size": {"w":29,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:44eb976342c54875fc2a5fcb76dae23c:ca5c84b7be943d1502979ffa31e33f75:cad472cd5511e59d940ce14ab8c269ac$"
+}
+}
